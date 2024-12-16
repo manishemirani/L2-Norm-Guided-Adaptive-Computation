@@ -43,7 +43,7 @@ using Scenic, or have been reimplemented in Scenic:
 
 Projects that were developed in Scenic or used it for their experiments:
 
-* [L2 Norm Guided Adaptive Computation]([https://arxiv.org/abs/2103.15691](https://openreview.net/pdf?id=qW_GZYyn7C))
+* [L2 Norm Guided Adaptive Computation](https://openreview.net/pdf?id=qW_GZYyn7C)
 * [ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691)
 * [OmniNet: Omnidirectional Representations from Transformers](https://arxiv.org/abs/2103.01075)
 * [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/abs/2107.00135)
